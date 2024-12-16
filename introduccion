@@ -1,0 +1,36 @@
+Análisis y Diseño de un Sistema: Plataforma de Spotify
+
+Fernando Daniel Loera Ochoa
+
+Resumen del Proyecto
+
+Este proyecto tiene como objetivo analizar y diseñar una versión simplificada de un sistema inspirado en Spotify. La plataforma permite a los usuarios reproducir música, crear playlists, seguir artistas y explorar catálogos musicales.
+
+Propósito, Alcance y Objetivos
+
+Propósito: Diseñar un sistema para gestionar catálogos de música y experiencias de reproducción personalizadas.
+
+Alcance: Incluye funciones básicas como reproducción de canciones, creación de playlists y seguimiento de artistas.
+
+Objetivos:
+
+Desarrollar un modelo funcional para la gestión de catálogos de música.
+
+Proporcionar diseños de interfaces atractivas y funcionales.
+
+Elementos del Proyecto Sujetos a Entrega
+
+Modelos de análisis: diagrama de dominio, casos de uso y especificaciones.
+
+Diseños: prototipos de pantallas, diagrama de clases y diagramas de secuencia.
+
+Script SQL para la base de datos.
+
+Materiales de Consulta
+
+Documentación oficial de Spotify.
+
+Libros sobre análisis y diseño orientado a objetos.
+
+Referencias de UML.
+

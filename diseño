@@ -1,0 +1,35 @@
+Mockup
+
+Diseño de interfaces que incluyan:
+
+Pantalla principal con menú de navegación.
+
+Formulario para crear playlists.
+
+Vista de reproducción con controles básicos.
+
+Diagrama de Clases
+
+Clases principales: Usuario, Playlist, Canción, Artista, Álbum.
+
+Relación: Agregar asociaciones como "una Playlist contiene muchas Canciones".
+
+Diagrama de Secuencia
+
+Ejemplo: Crear Playlist.
+
+Usuario interactúa con la interfaz.
+
+La lógica de negocio procesa la solicitud.
+
+Los datos se almacenan en la base de datos.
+
+Diagrama de Componentes
+
+Dividir el sistema en:
+
+Front-End: Interfaces de usuario.
+
+Back-End: Lógica de negocio.
+
+Base de datos: Gestor de datos.
